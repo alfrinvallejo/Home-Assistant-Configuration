@@ -20,6 +20,7 @@ www
 
 # Specific file ignores
 secrets.yaml
+settings.json
 
 # ESPHome ignores
 esphome/secrets.yaml
